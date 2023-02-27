@@ -86,11 +86,8 @@ export const Footer = () => {
                     <div className={style.footer__development}>
                         <p>© YouMeal, 2022</p>
                         <p>
-                            Design: <a href="#">Anastasia Ilina</a>
-                        </p>
-                        <p>
                             Developer:{' '}
-                            <a href="mailto:maksim.leskin@methed.ru">Maksim Leskin</a>
+                            <a href="mailto:nessipenko@gmail.com">Inessa Kazakova</a>
                         </p>
                     </div>
                 </div>
