@@ -20,6 +20,10 @@
     gap: 10px;
 }
 
+.empty {
+    font-size: 1.4em;
+}
+
 
 @media (min-width: 1024px) {
     .catalog {
@@ -48,4 +52,5 @@
         grid-template-columns: repeat(auto-fit, 300px);
         gap: 30px;
     }
+
 }
